@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/bin/Debug/netcoreapp2.2/planets-and-spaceships.deps.json
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/bin/Debug/netcoreapp2.2/planets-and-spaceships.runtimeconfig.json
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/bin/Debug/netcoreapp2.2/planets-and-spaceships.runtimeconfig.dev.json
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/bin/Debug/netcoreapp2.2/planets-and-spaceships.dll
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/bin/Debug/netcoreapp2.2/planets-and-spaceships.pdb
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/obj/Debug/netcoreapp2.2/planets-and-spaceships.csprojAssemblyReference.cache
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/obj/Debug/netcoreapp2.2/planets-and-spaceships.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/obj/Debug/netcoreapp2.2/planets-and-spaceships.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/obj/Debug/netcoreapp2.2/planets-and-spaceships.AssemblyInfo.cs
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/obj/Debug/netcoreapp2.2/planets-and-spaceships.dll
+/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/obj/Debug/netcoreapp2.2/planets-and-spaceships.pdb

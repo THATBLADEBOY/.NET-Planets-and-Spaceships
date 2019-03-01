@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/Blade/Desktop/workspace/dotnet/planets-and-spaceships/planets-and-spaceships.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
